@@ -221,3 +221,10 @@ li {
 	width: 50%;
 	text-align: right;
 }
+
+#title {
+	background-image: url("img/1.png");
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+}
